@@ -1,5 +1,5 @@
 # CARNIVAL
-Project designed for the automation of the website [CARNiVAL](https://www.carnival.com)
+Project designed for the automation of the website [CARNIVAL](https://www.carnival.com)
 
 ### What you’ll need
 + A favorite text editor or IDE
@@ -62,11 +62,11 @@ Git:
 
     Whit SSH
     git clone git@github.com:DiegoZaraza/carnival.git
-    cd BlankFactor
+    cd carnival
     
     With HTTPS
     git clone git@github.com:DiegoZaraza/carnival.git
-    cd BlankFactor
+    cd carnival
     
 Or simply [download a zip](https://github.com/DiegoZaraza/carnival/archive/refs/heads/main.zip) file
 
